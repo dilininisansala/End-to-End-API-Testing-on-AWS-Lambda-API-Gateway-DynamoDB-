@@ -51,7 +51,6 @@ A complete REST API for managing employee data:
  * DELETE (Delete employee)
 
 ⚙️**AWS Lambda Setup**
-* Create Lambda Function
 * Go to AWS Lambda
 * Click **Create Function** button
 
