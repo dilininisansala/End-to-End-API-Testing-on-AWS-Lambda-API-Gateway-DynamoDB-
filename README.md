@@ -22,8 +22,8 @@ I recently completed a hands-on project to strengthen my cloud testing skills by
 🔹PUT
 🔹DELETE
 * Verified each method:
-👉Integration type = Lambda Function
-👉Connected to appropriate Lambda functions
+  * Integration type = Lambda Function
+  * Connected to appropriate Lambda functions
 ![11](https://github.com/user-attachments/assets/fe195df7-a2ff-4434-a49a-a1469c64627e)
 
 * Created resource /𝐞𝐦𝐩𝐥𝐨𝐲𝐞𝐞𝐬/{𝐢𝐝}
@@ -247,9 +247,9 @@ Example: 𝑨𝒎𝒂𝒛𝒐𝒏𝑫𝒚𝒏𝒂𝒎𝒐𝑫𝑩𝑭𝒖𝒍�
 *  Validated status codes (200, 201, 400, 404, 500)
 *  Verified backend data consistency with DynamoDB
 *  Debugged issues like:
-👉Missing Authentication Token
-👉Internal Server Error
-👉Incorrect Lambda integration
+   * Missing Authentication Token
+   * Internal Server Error
+   * Incorrect Lambda integration
 
 🧠 **𝐊𝐞𝐲 𝐋𝐞𝐚𝐫𝐧𝐢𝐧𝐠𝐬**
 * Difference between Lambda Proxy vs Non-Proxy integration
