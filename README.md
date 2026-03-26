@@ -36,7 +36,7 @@ I recently completed a hands-on project to strengthen my cloud testing skills by
 ![10](https://github.com/user-attachments/assets/62e42fb8-ce55-4089-a8d0-9e54b285b17b)
 
 After configuring endpoints, deployed API using 𝐀𝐦𝐚𝐳𝐨𝐧 𝐀𝐏𝐈 𝐆𝐚𝐭𝐞𝐰𝐚𝐲<br>
-Base URL obtained after deployment:
+Base URL obtained after deployment:<br>
 𝒉𝒕𝒕𝒑𝒔://𝒑1𝒔8𝒗𝒋𝒗𝒖8𝒄.𝒆𝒙𝒆𝒄𝒖𝒕𝒆-𝒂𝒑𝒊.𝒖𝒔-𝒆𝒂𝒔𝒕-1.𝒂𝒎𝒂𝒛𝒐𝒏𝒂𝒘𝒔.𝒄𝒐𝒎/𝑫𝒆𝒗
 ![6](https://github.com/user-attachments/assets/aa017c70-ff3d-4b21-95e6-06b72827f780)
 
