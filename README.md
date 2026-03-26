@@ -1,4 +1,4 @@
-![13](https://github.com/user-attachments/assets/5e3d9c14-4bdd-4d2a-b8b2-52f73629c732)# End-to-End-API-Testing-on-AWS-Lambda-API-Gateway-DynamoDB-
+# End-to-End-API-Testing-on-AWS-Lambda-API-Gateway-DynamoDB-
 I recently completed a hands-on project to strengthen my cloud testing skills by building and testing a serverless backend using AWS services.
 
 ⚙️**𝐓𝐞𝐜𝐡 𝐒𝐭𝐚𝐜𝐤 𝐔𝐬𝐞𝐝:**
