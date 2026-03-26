@@ -236,9 +236,9 @@ export const handler = async (event) => {
 ```
 
 🔐**𝐈𝐀𝐌 𝐑𝐨𝐥𝐞 & 𝐏𝐞𝐫𝐦𝐢𝐬𝐬𝐢𝐨𝐧𝐬**
-* AWS automatically created an execution role
+* AWS automatically created an execution role<br>
 Example: 𝒈𝒆𝒕𝑨𝒍𝒍𝑬𝒎𝒑𝒍𝒐𝒚𝒆𝒆𝒔-𝒓𝒐𝒍𝒆-𝒙𝒙𝒙𝒙
-* Attached policy (for testing):
+* Attached policy (for testing):<br>
 Example: 𝑨𝒎𝒂𝒛𝒐𝒏𝑫𝒚𝒏𝒂𝒎𝒐𝑫𝑩𝑭𝒖𝒍𝒍𝑨𝒄𝒄𝒆𝒔𝒔
 ![7](https://github.com/user-attachments/assets/fa324159-831a-4e17-a136-1dab44de291a)
 ![8](https://github.com/user-attachments/assets/c298454e-003e-4b2f-8d05-cd064450901a)
