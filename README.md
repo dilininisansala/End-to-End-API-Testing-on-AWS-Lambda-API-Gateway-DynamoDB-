@@ -54,8 +54,11 @@ A complete REST API for managing employee data:
 * Create Lambda Function
 * Go to AWS Lambda
 * Click **Create Function** button
+
+![1](https://github.com/user-attachments/assets/7e42edba-ae07-43f4-b770-e71f3572bc44)
 ![12](https://github.com/user-attachments/assets/ef7536e9-83ad-49b9-b980-b2df3066ea63)
 ![13](https://github.com/user-attachments/assets/c9e41ade-163a-40e6-afbe-e01c67dc8b52)
+
 ```
 import { DynamoDBClient } from "@aws-sdk/client-dynamodb";
 import {
