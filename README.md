@@ -252,7 +252,7 @@ Example: 𝑨𝒎𝒂𝒛𝒐𝒏𝑫𝒚𝒏𝒂𝒎𝒐𝑫𝑩𝑭𝒖𝒍�
 👉Incorrect Lambda integration
 
 🧠 **𝐊𝐞𝐲 𝐋𝐞𝐚𝐫𝐧𝐢𝐧𝐠𝐬**
-🔹 Difference between Lambda Proxy vs Non-Proxy integration
-🔹 Handling path parameters (/employees/{id})
-🔹 Importance of API deployment after changes
-🔹 Real-world debugging in cloud environments
+* Difference between Lambda Proxy vs Non-Proxy integration
+* Handling path parameters (/employees/{id})
+* Importance of API deployment after changes
+* Real-world debugging in cloud environments
