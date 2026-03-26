@@ -44,7 +44,8 @@ Base URL obtained after deployment:<br>
 A complete REST API for managing employee data:<br>
 /𝐞𝐦𝐩𝐥𝐨𝐲𝐞𝐞𝐬 
  * GET (Get all employees)
- * POST (Create employee)<br>
+ * POST (Create employee)
+   
 /𝐞𝐦𝐩𝐥𝐨𝐲𝐞𝐞𝐬/{𝐢𝐝} 
  * GET (Get employee by ID)
  * PUT (Update employee)
