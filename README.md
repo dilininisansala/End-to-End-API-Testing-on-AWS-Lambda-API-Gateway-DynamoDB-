@@ -17,10 +17,10 @@ I recently completed a hands-on project to strengthen my cloud testing skills by
 ⚙️**𝐀𝐏𝐈 𝐆𝐚𝐭𝐞𝐰𝐚𝐲 𝐒𝐞𝐭𝐮𝐩**
 * Created resource /𝐞𝐦𝐩𝐥𝐨𝐲𝐞𝐞𝐬
 * Added methods
-🔹GET
-🔹POST
-🔹PUT
-🔹DELETE
+  * GET
+  * POST
+  * PUT
+  * DELETE
 * Verified each method:
   * Integration type = Lambda Function
   * Connected to appropriate Lambda functions
@@ -28,9 +28,9 @@ I recently completed a hands-on project to strengthen my cloud testing skills by
 
 * Created resource /𝐞𝐦𝐩𝐥𝐨𝐲𝐞𝐞𝐬/{𝐢𝐝}
 * Attached methods:
-🔹GET
-🔹PUT
-🔹DELETE
+  * GET
+  * PUT
+  * DELETE
 * Enabled Lambda proxy integration for all methods
 ![1](https://github.com/user-attachments/assets/9a07f33f-ae41-4aab-baf7-c819994b9007)
 ![10](https://github.com/user-attachments/assets/62e42fb8-ce55-4089-a8d0-9e54b285b17b)
@@ -43,12 +43,12 @@ Base URL obtained after deployment:
 📌 **𝐖𝐡𝐚𝐭 𝐈 𝐁𝐮𝐢𝐥𝐭**
 A complete REST API for managing employee data:
 /𝐞𝐦𝐩𝐥𝐨𝐲𝐞𝐞𝐬 
-🔹GET (Get all employees)
-🔹POST (Create employee)
+ * GET (Get all employees)
+ * POST (Create employee)
 /𝐞𝐦𝐩𝐥𝐨𝐲𝐞𝐞𝐬/{𝐢𝐝} 
-🔹GET (Get employee by ID)
-🔹PUT (Update employee)
-🔹DELETE (Delete employee)
+ * GET (Get employee by ID)
+ * PUT (Update employee)
+ * DELETE (Delete employee)
 
 ⚙️**AWS Lambda Setup**
 * Create Lambda Function
