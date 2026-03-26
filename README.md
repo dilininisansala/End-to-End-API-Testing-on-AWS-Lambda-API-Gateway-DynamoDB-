@@ -258,17 +258,17 @@ Example: 𝑨𝒎𝒂𝒛𝒐𝒏𝑫𝒚𝒏𝒂𝒎𝒐𝑫𝑩𝑭𝒖𝒍�
    * Incorrect Lambda integration
 
 ***Get All***
-GET /employees
+GET /employees<br>
 https://p1s8vjvu8c.execute-api.us-east-1.amazonaws.com/Dev/employees
 ![1](https://github.com/user-attachments/assets/22db39c8-b322-4fdc-893e-60e57203f191)
 
 ***Get by ID***
-GET /employees/101
+GET /employees/106 <br>
 https://p1s8vjvu8c.execute-api.us-east-1.amazonaws.com/Dev/employees/106
 ![1](https://github.com/user-attachments/assets/591520a2-16b7-4c9e-b055-af112d17f5f1)
 
 ***Create***
-POST /employees
+POST /employees<br>
 https://p1s8vjvu8c.execute-api.us-east-1.amazonaws.com/Dev/employees
 ```
 {
@@ -283,7 +283,7 @@ https://p1s8vjvu8c.execute-api.us-east-1.amazonaws.com/Dev/employees
 ![2](https://github.com/user-attachments/assets/7e065671-d768-4bce-b804-094be8fc767d)
 
 ***Update***
-PUT /employees/101
+PUT /employees/108 <br>
 https://p1s8vjvu8c.execute-api.us-east-1.amazonaws.com/Dev/employees/108
 ```
 {
@@ -297,7 +297,7 @@ https://p1s8vjvu8c.execute-api.us-east-1.amazonaws.com/Dev/employees/108
 ![3](https://github.com/user-attachments/assets/9f4901a7-9c36-4fd4-8bef-abd98dfd9af0)
 
 ***Delete***
-DELETE /employees/101
+DELETE /employees/108 <br>
 https://p1s8vjvu8c.execute-api.us-east-1.amazonaws.com/Dev/employees/108
 ![4](https://github.com/user-attachments/assets/91b98f3d-a57a-42d5-91fa-349e372ccb89)
 
