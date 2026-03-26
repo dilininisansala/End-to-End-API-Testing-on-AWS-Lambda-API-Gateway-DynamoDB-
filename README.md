@@ -10,28 +10,28 @@ I recently completed a hands-on project to strengthen my cloud testing skills by
 * Postman
 
 ⚙️**𝐈𝐦𝐩𝐥𝐞𝐦𝐞𝐧𝐭𝐚𝐭𝐢𝐨𝐧 𝐇𝐢𝐠𝐡𝐥𝐢𝐠𝐡𝐭𝐬**
-✅ Integrated AWS Lambda with API Gateway
-✅ Connected APIs to DynamoDB (real database)
-✅ Implemented full CRUD operations:
+*  Integrated AWS Lambda with API Gateway
+*  Connected APIs to DynamoDB (real database)
+*  Implemented full CRUD operations:
 
 ⚙️**𝐀𝐏𝐈 𝐆𝐚𝐭𝐞𝐰𝐚𝐲 𝐒𝐞𝐭𝐮𝐩**
-✔️Created resource /𝐞𝐦𝐩𝐥𝐨𝐲𝐞𝐞𝐬
-✔️Added methods
+* Created resource /𝐞𝐦𝐩𝐥𝐨𝐲𝐞𝐞𝐬
+* Added methods
 🔹GET
 🔹POST
 🔹PUT
 🔹DELETE
-✔️Verified each method:
+* Verified each method:
 👉Integration type = Lambda Function
 👉Connected to appropriate Lambda functions
 ![11](https://github.com/user-attachments/assets/fe195df7-a2ff-4434-a49a-a1469c64627e)
 
-✔️Created resource /𝐞𝐦𝐩𝐥𝐨𝐲𝐞𝐞𝐬/{𝐢𝐝}
-✔️Attached methods:
+* Created resource /𝐞𝐦𝐩𝐥𝐨𝐲𝐞𝐞𝐬/{𝐢𝐝}
+* Attached methods:
 🔹GET
 🔹PUT
 🔹DELETE
-✔️Enabled Lambda proxy integration for all methods
+* Enabled Lambda proxy integration for all methods
 ![1](https://github.com/user-attachments/assets/9a07f33f-ae41-4aab-baf7-c819994b9007)
 ![10](https://github.com/user-attachments/assets/62e42fb8-ce55-4089-a8d0-9e54b285b17b)
 
@@ -51,9 +51,9 @@ A complete REST API for managing employee data:
 🔹DELETE (Delete employee)
 
 ⚙️**AWS Lambda Setup**
-✔️Create Lambda Function
-Go to AWS Lambda
-Click **Create Function** button
+* Create Lambda Function
+* Go to AWS Lambda
+* Click **Create Function** button
 ![12](https://github.com/user-attachments/assets/ef7536e9-83ad-49b9-b980-b2df3066ea63)
 ![13](https://github.com/user-attachments/assets/c9e41ade-163a-40e6-afbe-e01c67dc8b52)
 ```
@@ -236,17 +236,17 @@ export const handler = async (event) => {
 ```
 
 🔐**𝐈𝐀𝐌 𝐑𝐨𝐥𝐞 & 𝐏𝐞𝐫𝐦𝐢𝐬𝐬𝐢𝐨𝐧𝐬**
-✔️AWS automatically created an execution role
+* AWS automatically created an execution role
 Example: 𝒈𝒆𝒕𝑨𝒍𝒍𝑬𝒎𝒑𝒍𝒐𝒚𝒆𝒆𝒔-𝒓𝒐𝒍𝒆-𝒙𝒙𝒙𝒙
-✔️Attached policy (for testing):
+* Attached policy (for testing):
 Example: 𝑨𝒎𝒂𝒛𝒐𝒏𝑫𝒚𝒏𝒂𝒎𝒐𝑫𝑩𝑭𝒖𝒍𝒍𝑨𝒄𝒄𝒆𝒔𝒔
 ![7](https://github.com/user-attachments/assets/fa324159-831a-4e17-a136-1dab44de291a)
 ![8](https://github.com/user-attachments/assets/c298454e-003e-4b2f-8d05-cd064450901a)
 
 🧪 **𝐀𝐏𝐈 𝐓𝐞𝐬𝐭𝐢𝐧𝐠 (𝐏𝐨𝐬𝐭𝐦𝐚𝐧)**
-✔️ Validated status codes (200, 201, 400, 404, 500)
-✔️ Verified backend data consistency with DynamoDB
-✔️ Debugged issues like:
+*  Validated status codes (200, 201, 400, 404, 500)
+*  Verified backend data consistency with DynamoDB
+*  Debugged issues like:
 👉Missing Authentication Token
 👉Internal Server Error
 👉Incorrect Lambda integration
