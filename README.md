@@ -41,10 +41,10 @@ Base URL obtained after deployment:<br>
 ![6](https://github.com/user-attachments/assets/aa017c70-ff3d-4b21-95e6-06b72827f780)
 
 📌 **𝐖𝐡𝐚𝐭 𝐈 𝐁𝐮𝐢𝐥𝐭**<br>
-A complete REST API for managing employee data:
+A complete REST API for managing employee data:<br>
 /𝐞𝐦𝐩𝐥𝐨𝐲𝐞𝐞𝐬 
  * GET (Get all employees)
- * POST (Create employee)
+ * POST (Create employee)<br>
 /𝐞𝐦𝐩𝐥𝐨𝐲𝐞𝐞𝐬/{𝐢𝐝} 
  * GET (Get employee by ID)
  * PUT (Update employee)
