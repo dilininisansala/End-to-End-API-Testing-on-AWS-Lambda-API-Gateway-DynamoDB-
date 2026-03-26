@@ -2,12 +2,12 @@
 I recently completed a hands-on project to strengthen my cloud testing skills by building and testing a serverless backend using AWS services.
 
 ⚙️**𝐓𝐞𝐜𝐡 𝐒𝐭𝐚𝐜𝐤 𝐔𝐬𝐞𝐝:**
-✔️AWS Lambda → Backend logic (CRUD operations)
-✔️AWS API Gateway → Exposes REST APIs
-✔️AWS DynamoDB → Database (stores data)
-✔️AWS IAM → Permissions
-✔️Amazon CloudWatch → Logs & debugging
-✔️Postman
+* AWS Lambda → Backend logic (CRUD operations)
+* AWS API Gateway → Exposes REST APIs
+* AWS DynamoDB → Database (stores data)
+* AWS IAM → Permissions
+* Amazon CloudWatch → Logs & debugging
+* Postman
 
 ⚙️**𝐈𝐦𝐩𝐥𝐞𝐦𝐞𝐧𝐭𝐚𝐭𝐢𝐨𝐧 𝐇𝐢𝐠𝐡𝐥𝐢𝐠𝐡𝐭𝐬**
 ✅ Integrated AWS Lambda with API Gateway
