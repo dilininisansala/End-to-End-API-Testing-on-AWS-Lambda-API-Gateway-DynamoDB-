@@ -53,7 +53,10 @@ A complete REST API for managing employee data:
 ⚙️**AWS Lambda Setup**
 * Go to AWS Lambda
 * Click **Create Function** button
-
+* Choose Function Type: 𝐀𝐮𝐭𝐡𝐨𝐫 𝐟𝐫𝐨𝐦 𝐬𝐜𝐫𝐚𝐭𝐜𝐡
+* Give Function name: 𝒆𝒎𝒑𝒍𝒐𝒚𝒆𝒆-𝒄𝒓𝒖𝒅-𝒇𝒖𝒏𝒄𝒕𝒊𝒐𝒏
+* Configure Permissions: Choose 𝐂𝐫𝐞𝐚𝐭𝐞 𝐝𝐞𝐟𝐚𝐮𝐥𝐭 𝐫𝐨𝐥𝐞
+* AWS will automatically create a role like: 𝒈𝒆𝒕𝑨𝒍𝒍𝑬𝒎𝒑𝒍𝒐𝒚𝒆𝒆𝒔-𝒓𝒐𝒍𝒆-𝒙𝒙𝒙𝒙
 ![1](https://github.com/user-attachments/assets/7e42edba-ae07-43f4-b770-e71f3572bc44)
 ![12](https://github.com/user-attachments/assets/ef7536e9-83ad-49b9-b980-b2df3066ea63)
 ![13](https://github.com/user-attachments/assets/c9e41ade-163a-40e6-afbe-e01c67dc8b52)
@@ -238,7 +241,7 @@ export const handler = async (event) => {
 ```
 
 🔐**𝐈𝐀𝐌 𝐑𝐨𝐥𝐞 & 𝐏𝐞𝐫𝐦𝐢𝐬𝐬𝐢𝐨𝐧𝐬**
-* AWS automatically created an execution role<br>
+* Go to IAM → Roles → Select your role <br>
 Example: 𝒈𝒆𝒕𝑨𝒍𝒍𝑬𝒎𝒑𝒍𝒐𝒚𝒆𝒆𝒔-𝒓𝒐𝒍𝒆-𝒙𝒙𝒙𝒙
 * Attached policy (for testing):<br>
 Example: 𝑨𝒎𝒂𝒛𝒐𝒏𝑫𝒚𝒏𝒂𝒎𝒐𝑫𝑩𝑭𝒖𝒍𝒍𝑨𝒄𝒄𝒆𝒔𝒔
